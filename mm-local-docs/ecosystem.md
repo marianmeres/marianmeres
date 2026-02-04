@@ -39,6 +39,7 @@ Reactive state patterns and collections.
 | `@marianmeres/modelize` | Proxy wrapper with dirty tracking | [AGENTS.md](https://raw.githubusercontent.com/marianmeres/modelize/refs/heads/master/AGENTS.md) |
 | `@marianmeres/wizard` | Multi-step wizard flow state | [AGENTS.md](https://raw.githubusercontent.com/marianmeres/wizard/refs/heads/master/AGENTS.md) |
 | `@marianmeres/item-collection` | Collection with active item tracking | [AGENTS.md](https://raw.githubusercontent.com/marianmeres/item-collection/refs/heads/master/AGENTS.md) |
+| `@marianmeres/ecsuite` | E-commerce state (cart, wishlist, orders) | [AGENTS.md](https://raw.githubusercontent.com/marianmeres/ecsuite/refs/heads/master/AGENTS.md) |
 
 ### Web & Routing
 
