@@ -30,6 +30,10 @@ Building blocks for reactive state and messaging.
 | `@marianmeres/ticker` | Store-compatible reactive timers | [AGENTS.md](https://raw.githubusercontent.com/marianmeres/ticker/refs/heads/master/AGENTS.md) |
 | `@marianmeres/batch` | Batch processor with flush triggers | [AGENTS.md](https://raw.githubusercontent.com/marianmeres/batch/refs/heads/master/AGENTS.md) |
 
+If the package at hand calls console.log|debug|error|warn at least once, then @marianmeres/clog is required.
+
+Other commonly used packages are @marianmeres/store and @marianmeres/pubsub.
+
 ### State Management
 
 Reactive state patterns and collections.
