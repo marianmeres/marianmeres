@@ -88,6 +88,7 @@ Frontend helpers and data structures.
 |---------|---------|------|
 | `@marianmeres/calendar-utils` | Calendar/date picker logic | [AGENTS.md](https://raw.githubusercontent.com/marianmeres/calendar-utils/refs/heads/master/AGENTS.md) |
 | `@marianmeres/tree` | Tree data structure | [AGENTS.md](https://raw.githubusercontent.com/marianmeres/tree/refs/heads/master/AGENTS.md) |
+| `@marianmeres/widget-provider` | Iframe widget embedding (float/fullscreen/inline) | [AGENTS.md](https://raw.githubusercontent.com/marianmeres/widget-provider/refs/heads/master/AGENTS.md) |
 
 ### Auth & Security
 
